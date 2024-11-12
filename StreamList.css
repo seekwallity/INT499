@@ -1,0 +1,32 @@
+/* src/components/StreamList.css */
+
+.streamlist {
+    margin-top: 2rem;
+  }
+  
+  .streamlist form {
+    display: inline-block;
+    margin-top: 1rem;
+  }
+  
+  .streamlist input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .streamlist button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .streamlist button:hover {
+    background-color: #555;
+  }
+  
